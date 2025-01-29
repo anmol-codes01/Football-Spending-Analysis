@@ -1,0 +1,170 @@
+index,to_club_id,transfer_fee,club_id,name,domestic_competition_id
+0,631,2020000000.0,631.0,Chelsea Football Club,GB1
+1,985,1800970000.0,985.0,Manchester United Football Club,GB1
+2,281,1727220000.0,281.0,Manchester City Football Club,GB1
+3,583,1252820000.0,583.0,Paris Saint-Germain Football Club,FR1
+4,506,1240200000.0,506.0,Juventus Football Club,IT1
+5,11,1217930000.0,11.0,Arsenal Football Club,GB1
+6,131,1050790000.0,131.0,Futbol Club Barcelona,ES1
+7,148,1006580000.0,148.0,Tottenham Hotspur Football Club,GB1
+8,31,915155000.0,31.0,Liverpool Football Club,GB1
+9,418,877650000.0,418.0,Real Madrid Club de Fútbol,ES1
+10,27,848500000.0,27.0,FC Bayern München,L1
+11,5,813660000.0,5.0,Associazione Calcio Milan,IT1
+12,379,802910000.0,379.0,West Ham United Football Club,GB1
+13,762,800510000.0,762.0,Newcastle United Football Club,GB1
+14,405,794890000.0,405.0,Aston Villa Football Club,GB1
+15,46,789020000.0,46.0,Football Club Internazionale Milano S.p.A.,IT1
+16,13,755045000.0,13.0,Club Atlético de Madrid S.A.D.,ES1
+17,6195,751850000.0,6195.0,Società Sportiva Calcio Napoli,IT1
+18,12,635490000.0,12.0,Associazione Sportiva Roma,IT1
+19,1003,621510000.0,1003.0,Leicester City Football Club,GB1
+20,29,619600000.0,29.0,Everton Football Club,GB1
+21,16,612240000.0,16.0,Borussia Dortmund,L1
+22,543,588386000.0,543.0,Wolverhampton Wanderers Football Club,GB1
+23,1237,565990000.0,1237.0,Brighton and Hove Albion Football Club,GB1
+24,23826,540280000.0,23826.0,RasenBallsport Leipzig,L1
+25,989,477630000.0,989.0,Association Football Club Bournemouth,GB1
+26,180,473350000.0,180.0,Southampton Football Club,GB1
+27,162,444650000.0,162.0,Association sportive de Monaco Football Club,FR1
+28,800,429830000.0,800.0,Atalanta Bergamasca Calcio S.p.a.,IT1
+29,15,420355000.0,15.0,Bayer 04 Leverkusen Fußball,L1
+30,703,410525000.0,703.0,Nottingham Forest Football Club,GB1
+31,873,408220000.0,873.0,Crystal Palace Football Club,GB1
+32,1041,391120000.0,1041.0,Olympique Lyonnais,FR1
+35,368,382600000.0,368.0,Sevilla Fútbol Club S.A.D.,ES1
+36,931,355870000.0,931.0,Fulham Football Club,GB1
+39,1049,302400000.0,1049.0,Valencia Club de Fútbol S. A. D.,ES1
+40,82,299580000.0,82.0,Verein für Leibesübungen Wolfsburg,L1
+41,430,294180000.0,430.0,Associazione Calcio Fiorentina,IT1
+42,244,290550000.0,244.0,Olympique de Marseille,FR1
+43,1148,289400000.0,1148.0,Brentford Football Club,GB1
+45,273,278100000.0,273.0,Stade Rennais Football Club,FR1
+46,1132,265010000.0,1132.0,Burnley FC,GB1
+47,1025,247890000.0,1025.0,Bologna Football Club 1909,IT1
+48,416,245330000.0,416.0,Torino Calcio,IT1
+49,1082,240070000.0,1082.0,Lille Olympique Sporting Club,FR1
+50,399,237775000.0,399.0,Leeds United,GB1
+51,6574,234760000.0,6574.0,US Sassuolo,IT1
+52,417,221230000.0,417.0,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+53,1010,220631000.0,1010.0,Watford FC,GB1
+54,24,219990000.0,24.0,Eintracht Frankfurt Fußball AG,L1
+55,398,214165000.0,398.0,Società Sportiva Lazio S.p.A.,IT1
+56,1050,207870000.0,1050.0,Villarreal Club de Fútbol S.A.D.,ES1
+57,150,203700000.0,150.0,Real Betis Balompié S.A.D.,ES1
+58,252,199500000.0,252.0,Genoa Cricket and Football Club,IT1
+60,350,195160000.0,350.0,Sheffield United,GB1
+62,533,185788000.0,533.0,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,L1
+63,18,181680000.0,18.0,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+64,130,171163000.0,130.0,Parma Calcio 1913,IT1
+66,1038,161770000.0,1038.0,UC Sampdoria,IT1
+67,44,159350000.0,44.0,Hertha BSC,L1
+68,410,158150000.0,410.0,Udinese Calcio,IT1
+70,79,156010000.0,79.0,Verein für Bewegungsspiele Stuttgart 1893,L1
+71,677,155802000.0,677.0,Ipswich Town Football Club,GB1
+72,681,153000000.0,681.0,Real Sociedad de Fútbol S.A.D.,ES1
+79,33,130200000.0,33.0,FC Schalke 04,L1
+80,3302,128780000.0,3302.0,UD Almería,ES1
+82,826,124390000.0,826.0,Racing Club de Lens,FR1
+83,940,118140000.0,940.0,Real Club Celta de Vigo S. A. D.,ES1
+84,276,111473000.0,276.0,Verona Hellas Football Club,IT1
+85,1390,110010000.0,1390.0,Cagliari Calcio,IT1
+86,667,102850000.0,667.0,Racing Club de Strasbourg Alsace,FR1
+87,2919,102080000.0,2919.0,Associazione Calcio Monza,IT1
+88,621,101750000.0,621.0,Athletic Club Bilbao,ES1
+93,714,94650000.0,714.0,Reial Club Deportiu Espanyol de Barcelona S.A.D.,ES1
+97,12321,86000000.0,12321.0,Girona Fútbol Club S. A. D.,ES1
+98,1158,85200000.0,1158.0,FC Lorient,FR1
+99,1123,84950000.0,1123.0,Norwich City,GB1
+100,512,78100000.0,512.0,Stoke City,GB1
+101,60,77580000.0,60.0,Sport-Club Freiburg,L1
+102,167,77560000.0,167.0,Fußball-Club Augsburg 1907,L1
+103,1110,75440000.0,1110.0,Huddersfield Town,GB1
+104,3709,73510000.0,3709.0,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+105,89,73468000.0,89.0,1. Fußballclub Union Berlin,L1
+106,86,73155000.0,86.0,Sportverein Werder Bremen von 1899,L1
+107,39,71060000.0,39.0,1. Fußball- und Sportverein Mainz 05,L1
+109,995,69650000.0,995.0,Football Club de Nantes,FR1
+112,2288,65858000.0,2288.0,Swansea City,GB1
+113,3,65400000.0,3.0,1.FC Köln,L1
+114,641,64415000.0,641.0,Middlesbrough FC,GB1
+116,380,62290000.0,380.0,US Salernitana 1919,IT1
+119,1421,61900000.0,1421.0,Stade de Reims,FR1
+120,16795,61470000.0,16795.0,Granada CF,ES1
+121,1047,60630000.0,1047.0,Calcio Como,IT1
+126,3008,56845000.0,3008.0,Hull City,GB1
+129,984,53890000.0,984.0,West Bromwich Albion,GB1
+130,41,53850000.0,41.0,Hamburger SV,L1
+132,969,47350000.0,969.0,Montpellier Hérault Sport Club,FR1
+134,40,45020000.0,40.0,FC Girondins Bordeaux,FR1
+135,347,43850000.0,347.0,FC Metz,FR1
+137,289,43523000.0,289.0,Sunderland AFC,GB1
+138,367,41450000.0,367.0,Rayo Vallecano de Madrid S.A.D.,ES1
+139,237,40920000.0,237.0,Real Club Deportivo Mallorca S.A.D.,ES1
+140,618,40050000.0,618.0,Association sportive de Saint-Étienne Loire,FR1
+142,331,39100000.0,331.0,Club Atlético Osasuna,ES1
+146,2722,35855000.0,2722.0,SPAL,IT1
+148,415,35388000.0,415.0,Toulouse Football Club,FR1
+149,749,35350000.0,749.0,Empoli Football Club S.r.l.,IT1
+150,607,35341500.0,607.0,Venezia Football Club,IT1
+154,458,32830000.0,458.0,Palermo FC,IT1
+156,3911,31900000.0,3911.0,Stade brestois 29,FR1
+157,603,31680000.0,603.0,Cardiff City,GB1
+162,1005,29480000.0,1005.0,Unione Sportiva Lecce,IT1
+164,3368,29175000.0,3368.0,Levante UD,ES1
+165,1039,28438000.0,1039.0,Queens Park Rangers,GB1
+169,1095,27835000.0,1095.0,ESTAC Troyes,FR1
+171,42,27170000.0,42.0,Hannover 96,L1
+179,3522,24251000.0,3522.0,Spezia Calcio,IT1
+183,1420,21520000.0,1420.0,Angers Sporting Club de l'Ouest,FR1
+186,1244,21140000.0,1244.0,Club Deportivo Leganés S.A.D.,ES1
+188,2921,20734000.0,2921.0,Delfino Pescara 1936,IT1
+190,1031,20610000.0,1031.0,Luton Town,GB1
+194,38,20050000.0,38.0,Fortuna Düsseldorf,L1
+198,1416,19350000.0,1416.0,Amiens SC,FR1
+200,366,19025000.0,366.0,Real Valladolid Club de Fútbol S.A.D.,ES1
+206,1108,17190000.0,1108.0,Deportivo Alavés S.A.D.,ES1
+213,1071,15615000.0,1071.0,Wigan Athletic,GB1
+214,2687,15550000.0,2687.0,Cádiz CF,ES1
+216,2036,15500000.0,2036.0,1. Fußballclub Heidenheim 1846,L1
+221,1084,14800000.0,1084.0,Málaga CF,ES1
+226,19,14255000.0,19.0,Brescia Calcio,IT1
+233,1032,13390000.0,1032.0,Reading FC,GB1
+237,472,13250000.0,472.0,Unión Deportiva Las Palmas S.A.D.,ES1
+241,1533,12800000.0,1533.0,SD Eibar,ES1
+244,2969,12415000.0,2969.0,Dijon FCO,FR1
+249,4171,11850000.0,4171.0,Benevento Calcio,IT1
+257,862,10950000.0,862.0,Chievo Verona,IT1
+265,3524,10230000.0,3524.0,Clermont Foot 63,FR1
+275,2239,9800000.0,2239.0,US Cremonese,IT1
+278,1531,9450000.0,1531.0,Elche CF,ES1
+280,8970,9200000.0,8970.0,Frosinone Calcio,IT1
+286,1160,8650000.0,1160.0,Nîmes Olympique,FR1
+289,105,8300000.0,105.0,SV Darmstadt 98,L1
+290,4083,8100000.0,4083.0,FC Crotone,IT1
+297,269,7670000.0,269.0,Kieler Sportvereinigung Holstein von 1900,L1
+311,290,7050000.0,290.0,Association de la Jeunesse auxerroise,FR1
+312,1162,7000000.0,1162.0,SM Caen,FR1
+317,738,6950000.0,738.0,Le Havre Athletic Club,FR1
+337,1387,5750000.0,1387.0,Siena FC,IT1
+338,2448,5700000.0,2448.0,Sporting Gijón,ES1
+340,35,5600000.0,35.0,Fußball-Club St. Pauli von 1910,L1
+349,4795,5250000.0,4795.0,FC Ingolstadt 04,L1
+359,5358,5000000.0,5358.0,SD Huesca,ES1
+370,4,4590000.0,4.0,1.FC Nuremberg,L1
+373,897,4500000.0,897.0,Deportivo de La Coruña,ES1
+379,1429,4400000.0,1429.0,Cesena FC,IT1
+389,855,3825000.0,855.0,EA Guingamp,FR1
+400,80,3535000.0,80.0,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,L1
+411,1627,3350000.0,1627.0,Catania FC,IT1
+417,10,3250000.0,10.0,Arminia Bielefeld,L1
+428,127,2925000.0,127.0,SC Paderborn 07,L1
+460,65,2380000.0,65.0,SpVgg Greuther Fürth,L1
+500,23,1900000.0,23.0,Eintracht Braunschweig,L1
+552,14171,1200000.0,14171.0,Thonon Évian Grand Genève FC,FR1
+566,1423,1100000.0,1423.0,Valenciennes FC,FR1
+608,595,900000.0,595.0,SC Bastia,FR1
+665,1159,600000.0,1159.0,AS Nancy-Lorraine,FR1
+703,142,450000.0,142.0,Real Zaragoza,ES1
+708,4102,425000.0,4102.0,AC Carpi,IT1
+751,750,300000.0,750.0,FC Sochaux-Montbéliard,FR1

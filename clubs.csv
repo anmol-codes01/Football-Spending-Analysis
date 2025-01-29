@@ -1,0 +1,174 @@
+club_id,club_code,name,domestic_competition_id,squad_size,average_age,foreigners_number,foreigners_percentage,national_team_players,stadium_seats,net_transfer_record
+105,sv-darmstadt-98,SV Darmstadt 98,L1,27,25.6,13,48.1,1,17810,+€3.05m
+12,as-rom,Associazione Sportiva Roma,IT1,25,26.1,18,72.0,18,70634,€-68.30m
+148,tottenham-hotspur,Tottenham Hotspur Football Club,GB1,30,25.1,20,66.7,19,62850,€-110.05m
+269,holstein-kiel,Kieler Sportvereinigung Holstein von 1900,L1,30,25.9,12,40.0,2,15034,€-4.70m
+4795,fc-ingolstadt-04,FC Ingolstadt 04,L1,28,24.3,8,28.6,1,15800,+€1.55m
+5358,sd-huesca,SD Huesca,ES1,24,27.5,8,33.3,2,9128,+€1.43m
+603,cardiff-city,Cardiff City,GB1,28,25.5,24,85.7,8,33280,€-655k
+969,montpellier-hsc,Montpellier Hérault Sport Club,FR1,27,26.7,17,63.0,8,22000,+€12.50m
+989,afc-bournemouth,Association Football Club Bournemouth,GB1,25,24.9,19,76.0,14,11307,€-47.79m
+993,fc-cordoba,Córdoba CF,ES1,24,27.9,4,16.7,0,21822,+-0
+1025,fc-bologna,Bologna Football Club 1909,IT1,29,25.9,21,72.4,14,36462,+€51.17m
+1082,losc-lille,Lille Olympique Sporting Club,FR1,26,26.9,18,69.2,13,50186,+€39.00m
+1160,nimes-olympique,Nîmes Olympique,FR1,26,25.4,12,46.2,3,8033,+€2.50m
+3008,hull-city,Hull City,GB1,28,25.0,17,60.7,6,25586,+€7.50m
+31,fc-liverpool,Liverpool Football Club,GB1,25,26.4,18,72.0,22,61276,+€5.00m
+3911,stade-brest-29,Stade brestois 29,FR1,25,27.3,10,40.0,6,15220,€-5.80m
+4,1-fc-nurnberg,1.FC Nuremberg,L1,33,25.2,7,21.2,2,50000,+€2.63m
+410,udinese-calcio,Udinese Calcio,IT1,34,25.6,30,88.2,11,25144,€-270k
+595,sc-bastia,SC Bastia,FR1,25,27.6,8,32.0,6,16480,+€480k
+1010,fc-watford,Watford FC,GB1,30,26.3,24,80.0,12,21577,+€42.02m
+1108,deportivo-alaves,Deportivo Alavés S.A.D.,ES1,24,26.8,10,41.7,4,19840,+€4.29m
+1158,fc-lorient,FC Lorient,FR1,30,25.0,17,56.7,8,16787,+€4.80m
+13,atletico-madrid,Club Atlético de Madrid S.A.D.,ES1,24,28.9,17,70.8,16,70460,€-91.10m
+131,fc-barcelona,Futbol Club Barcelona,ES1,28,24.5,8,28.6,14,55926,€-19.40m
+18,borussia-monchengladbach,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1,25,26.4,13,52.0,10,54042,€-7.70m
+2036,1-fc-heidenheim-1846,1. Fußballclub Heidenheim 1846,L1,28,26.7,4,14.3,1,15000,+€9.45m
+273,fc-stade-rennes,Stade Rennais Football Club,FR1,25,25.8,16,64.0,11,29778,+€21.00m
+366,real-valladolid,Real Valladolid Club de Fútbol S.A.D.,ES1,23,26.5,14,60.9,6,27618,€-8.03m
+458,palermo-fc,Palermo FC,IT1,28,25.6,7,25.0,4,36365,€-7.94m
+46,inter-mailand,Football Club Internazionale Milano S.p.A.,IT1,26,29.4,19,73.1,16,75923,€-62.31m
+995,fc-nantes,Football Club de Nantes,FR1,26,26.9,14,53.8,7,35322,+€1.30m
+1003,leicester-city,Leicester City Football Club,GB1,30,26.5,21,70.0,14,32259,€-41.80m
+1047,como-1907,Calcio Como,IT1,36,27.0,22,61.1,3,13602,€-74.40m
+1237,brighton-amp-hove-albion,Brighton and Hove Albion Football Club,GB1,27,26.0,19,70.4,17,31876,€-194.41m
+2969,dijon-fco,Dijon FCO,FR1,29,25.8,14,48.3,4,16098,+€1.50m
+3522,spezia-calcio,Spezia Calcio,IT1,32,24.4,25,78.1,11,11676,€-3.95m
+40,fc-girondins-bordeaux,FC Girondins Bordeaux,FR1,26,22.7,13,50.0,6,42115,+€12.70m
+6195,ssc-neapel,Società Sportiva Calcio Napoli,IT1,24,27.9,13,54.2,12,54726,€-67.50m
+82,vfl-wolfsburg,Verein für Leibesübungen Wolfsburg,L1,30,25.6,20,66.7,13,28917,€-19.05m
+1050,fc-villarreal,Villarreal Club de Fútbol S.A.D.,ES1,26,27.1,10,38.5,10,23500,+€12.50m
+1147,ac-ajaccio,AC Ajaccio,FR1,24,27.5,11,45.8,6,10446,+-0
+130,parma-calcio-1913,Parma Calcio 1913,IT1,32,25.0,24,75.0,10,22352,€-38.35m
+1429,cesena-fc,Cesena FC,IT1,28,26.0,4,14.3,0,23860,+€335k
+15,bayer-04-leverkusen,Bayer 04 Leverkusen Fußball,L1,25,26.1,19,76.0,16,30210,€-21.85m
+2722,spal,SPAL,IT1,32,26.0,8,25.0,2,16134,+€2.75m
+276,hellas-verona,Verona Hellas Football Club,IT1,32,25.2,23,71.9,8,39211,+€12.42m
+703,nottingham-forest,Nottingham Forest Football Club,GB1,28,26.9,21,75.0,15,30404,€-18.80m
+80,vfl-bochum,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,L1,27,27.1,13,48.1,4,26000,+€4.80m
+1031,luton-town,Luton Town,GB1,30,26.1,16,53.3,7,11850,+€9.00m
+1071,wigan-athletic,Wigan Athletic,GB1,26,24.0,8,30.8,2,25133,+€290k
+1110,huddersfield-town,Huddersfield Town,GB1,33,26.7,12,36.4,3,24500,+€11.28m
+1159,as-nancy-lorraine,AS Nancy-Lorraine,FR1,27,25.7,5,18.5,0,20087,+-0
+1421,stade-reims,Stade de Reims,FR1,25,24.7,17,68.0,9,20519,+€30.65m
+1423,fc-valenciennes,Valenciennes FC,FR1,30,23.6,15,50.0,5,25000,+€2.52m
+162,as-monaco,Association sportive de Monaco Football Club,FR1,25,24.1,25,100.0,12,18525,€-42.25m
+24,eintracht-frankfurt,Eintracht Frankfurt Fußball AG,L1,25,25.1,18,72.0,9,58000,+€91.69m
+331,ca-osasuna,Club Atlético Osasuna,ES1,22,28.3,2,9.1,3,23576,+€700k
+3709,fc-getafe,Getafe Club de Fútbol S.A.D. Team Dubai,ES1,24,26.7,12,50.0,3,16800,+€21.30m
+750,fc-sochaux-montbeliard,FC Sochaux-Montbéliard,FR1,29,23.0,9,31.0,1,20005,+€6.30m
+762,newcastle-united,Newcastle United Football Club,GB1,29,28.5,12,41.4,12,52258,+€8.00m
+1041,olympique-lyon,Olympique Lyonnais,FR1,24,26.6,17,70.8,12,59186,€-79.74m
+1084,fc-malaga,Málaga CF,ES1,27,27.9,8,29.6,0,30044,+€950k
+1148,fc-brentford,Brentford Football Club,GB1,28,25.1,21,75.0,14,17250,€-23.40m
+1162,sm-caen,SM Caen,FR1,27,25.7,12,44.4,4,20500,+€3.05m
+142,real-saragossa,Real Zaragoza,ES1,23,26.0,6,26.1,1,33608,+€30k
+16,borussia-dortmund,Borussia Dortmund,L1,25,25.2,11,44.0,15,81365,€-21.40m
+2288,swansea-city,Swansea City,GB1,22,24.8,17,77.3,4,21088,+€8.35m
+237,rcd-mallorca,Real Club Deportivo Mallorca S.A.D.,ES1,26,28.2,12,46.2,7,26020,+€11.65m
+35,fc-st-pauli,Fußball-Club St. Pauli von 1910,L1,33,26.7,19,57.6,10,29546,€-750k
+3558,gfc-ajaccio,GFC Ajaccio,FR1,5,26.8,1,20.0,1,4050,+-0
+4102,carpi-fc-1909,AC Carpi,IT1,25,23.6,6,24.0,1,5510,+-0
+42,hannover-96,Hannover 96,L1,28,25.0,6,21.4,1,49000,€-300k
+641,fc-middlesbrough,Middlesbrough FC,GB1,25,26.1,8,32.0,6,33746,+€16.68m
+667,rc-strassburg-alsace,Racing Club de Strasbourg Alsace,FR1,29,22.5,19,65.5,7,26109,€-55.40m
+681,real-sociedad-san-sebastian,Real Sociedad de Fútbol S.A.D.,ES1,25,25.4,8,32.0,12,39313,+€24.35m
+873,crystal-palace,Crystal Palace Football Club,GB1,30,25.9,14,46.7,12,25486,+€8.80m
+1032,fc-reading,Reading FC,GB1,30,23.1,14,46.7,5,24161,+€3.06m
+1039,queens-park-rangers,Queens Park Rangers,GB1,26,25.9,15,57.7,8,18360,+€900k
+1244,cd-leganes,Club Deportivo Leganés S.A.D.,ES1,23,27.5,10,43.5,4,12454,+€910k
+14171,thonon-evian-grand-geneve-fc,Thonon Évian Grand Genève FC,FR1,27,27.4,6,22.2,1,2500,+-0
+244,olympique-marseille,Olympique de Marseille,FR1,30,25.6,21,70.0,13,67394,€-5.50m
+367,rayo-vallecano,Rayo Vallecano de Madrid S.A.D.,ES1,25,29.7,9,36.0,5,14708,+€2.00m
+379,west-ham-united,West Ham United Football Club,GB1,24,28.9,17,70.8,12,62500,€-98.25m
+380,us-salernitana-1919,US Salernitana 1919,IT1,30,24.5,16,53.3,3,29739,+€18.80m
+41,hamburger-sv,Hamburger SV,L1,30,23.6,15,50.0,4,57000,€-6.00m
+79,vfb-stuttgart,Verein für Bewegungsspiele Stuttgart 1893,L1,34,24.1,15,44.1,13,60449,€-10.08m
+86,sv-werder-bremen,Sportverein Werder Bremen von 1899,L1,26,26.3,11,42.3,6,42100,€-1.13m
+931,fc-fulham,Fulham Football Club,GB1,25,27.5,19,76.0,11,29589,€-22.75m
+1123,norwich-city,Norwich City,GB1,25,26.0,17,68.0,12,27244,€-10.33m
+1531,fc-elche,Elche CF,ES1,18,27.3,5,27.8,0,31388,+€1.00m
+583,fc-paris-saint-germain,Paris Saint-Germain Football Club,FR1,24,24.5,16,66.7,18,48583,€-164.82m
+621,athletic-bilbao,Athletic Club Bilbao,ES1,24,27.2,1,4.2,6,53289,€-6.50m
+65,spvgg-greuther-furth,SpVgg Greuther Fürth,L1,28,24.0,11,39.3,2,16626,+€3.97m
+677,ipswich-town,Ipswich Town Football Club,GB1,31,26.5,15,48.4,12,29673,€-148.54m
+855,ea-guingamp,EA Guingamp,FR1,27,25.4,7,25.9,1,18120,+€3.70m
+985,manchester-united,Manchester United Football Club,GB1,29,26.2,19,65.5,19,74879,€-111.50m
+1132,fc-burnley,Burnley FC,GB1,28,24.8,18,64.3,8,21994,+€50.53m
+150,real-betis-sevilla,Real Betis Balompié S.A.D.,ES1,25,28.2,11,44.0,5,60721,+€32.65m
+3368,ud-levante,Levante UD,ES1,23,27.5,6,26.1,0,26354,+€7.80m
+506,juventus-turin,Juventus Football Club,IT1,28,25.7,20,71.4,20,41507,€-82.10m
+618,as-saint-etienne,Association sportive de Saint-Étienne Loire,FR1,27,27.0,12,44.4,5,41965,€-23.10m
+1095,es-troyes-ac,ESTAC Troyes,FR1,29,23.1,16,57.1,5,21877,+-0
+1420,sco-angers,Angers Sporting Club de l'Ouest,FR1,30,27.1,17,56.7,8,19350,+€474k
+23826,rasenballsport-leipzig,RasenBallsport Leipzig,L1,26,25.6,19,73.1,17,47069,+€29.50m
+2687,fc-cadiz,Cádiz CF,ES1,26,28.7,6,23.1,2,21094,+€4.00m
+2919,ac-monza,Associazione Calcio Monza,IT1,30,27.4,9,30.0,3,17102,+€20.25m
+3524,clermont-foot-63,Clermont Foot 63,FR1,30,23.9,18,60.0,5,10800,+€4.00m
+398,lazio-rom,Società Sportiva Lazio S.p.A.,IT1,30,26.6,20,66.7,11,70634,€-12.05m
+4171,benevento-calcio,Benevento Calcio,IT1,31,26.7,16,51.6,2,16867,€-1.93m
+418,real-madrid,Real Madrid Club de Fútbol,ES1,23,27.1,17,73.9,16,81044,€-33.00m
+6574,us-sassuolo,US Sassuolo,IT1,32,23.8,11,34.4,7,21584,+€49.15m
+738,ac-le-havre,Le Havre Athletic Club,FR1,31,26.3,18,58.1,7,25178,+€9.80m
+89,1-fc-union-berlin,1. Fußballclub Union Berlin,L1,29,27.3,16,55.2,7,22012,+€2.70m
+940,celta-vigo,Real Club Celta de Vigo S. A. D.,ES1,27,27.2,11,40.7,7,24870,€-500k
+1387,acn-siena-1904,Siena FC,IT1,20,25.5,2,10.0,0,15373,+-0
+1390,cagliari-calcio,Cagliari Calcio,IT1,24,27.3,11,45.8,8,16365,+€5.65m
+1416,amiens-sc,Amiens SC,FR1,24,24.1,10,41.7,7,12999,+€700k
+167,fc-augsburg,Fußball-Club Augsburg 1907,L1,28,26.0,17,60.7,9,30660,+€25.05m
+289,afc-sunderland,Sunderland AFC,GB1,26,23.5,12,46.2,6,48707,€-6.06m
+2921,delfino-pescara-1936,Delfino Pescara 1936,IT1,28,24.6,6,21.4,1,20476,+€4.60m
+3,1-fc-koln,1.FC Köln,L1,34,24.6,11,32.4,6,50000,+€1.60m
+430,ac-florenz,Associazione Calcio Fiorentina,IT1,26,26.1,12,46.2,10,43147,€-24.07m
+5,ac-mailand,Associazione Calcio Milan,IT1,26,26.1,19,73.1,14,75923,€-35.90m
+512,stoke-city,Stoke City,GB1,24,26.7,9,37.5,6,30089,+€17.00m
+826,rc-lens,Racing Club de Lens,FR1,27,27.3,17,63.0,10,38223,+€71.05m
+897,deportivo-la-coruna,Deportivo de La Coruña,ES1,24,27.7,3,12.5,0,32912,€-435k
+11,fc-arsenal,Arsenal Football Club,GB1,24,26.6,18,75.0,18,60704,€-25.11m
+1627,catania-calcio,Catania FC,IT1,27,26.0,5,18.5,0,20204,€-101k
+16795,fc-granada,Granada CF,ES1,24,26.1,8,33.3,4,19336,+€19.70m
+2239,us-cremonese,US Cremonese,IT1,29,25.4,9,30.0,2,16003,+€5.00m
+252,genua-cfc,Genoa Cricket and Football Club,IT1,32,26.3,18,56.3,5,34901,+€8.54m
+281,manchester-city,Manchester City Football Club,GB1,28,26.9,20,71.4,22,55097,€-36.00m
+3302,ud-almeria,UD Almería,ES1,24,25.2,13,54.2,5,18331,€-1.60m
+39,1-fsv-mainz-05,1. Fußball- und Sportverein Mainz 05,L1,25,26.7,11,44.0,7,33305,+€27.25m
+405,aston-villa,Aston Villa Football Club,GB1,25,26.8,18,72.0,17,42918,€-29.50m
+543,wolverhampton-wanderers,Wolverhampton Wanderers Football Club,GB1,32,26.1,27,84.4,17,31750,+€18.10m
+60,sc-freiburg,Sport-Club Freiburg,L1,26,27.3,12,46.2,6,34700,+€900k
+714,espanyol-barcelona,Reial Club Deportiu Espanyol de Barcelona S.A.D.,ES1,30,26.2,9,30.0,2,40500,+€1.10m
+862,chievo-verona,Chievo Verona,IT1,0,,0,,0,31045,+-0
+8970,frosinone-calcio,Frosinone Calcio,IT1,31,23.8,15,48.4,5,16227,+€5.81m
+12321,fc-girona,Girona Fútbol Club S. A. D.,ES1,26,27.4,13,50.0,6,14624,+€11.00m
+127,sc-paderborn-07,SC Paderborn 07,L1,26,25.7,5,19.2,1,15000,€-450k
+19,brescia-calcio,Brescia Calcio,IT1,28,25.1,12,42.9,1,19550,+€3.65m
+23,eintracht-braunschweig,Eintracht Braunschweig,L1,30,25.6,11,36.7,2,23325,+€750k
+33,fc-schalke-04,FC Schalke 04,L1,27,26.4,12,44.4,4,62271,+€10.30m
+350,sheffield-united,Sheffield United,GB1,28,24.2,11,39.3,5,32702,+€31.02m
+472,ud-las-palmas,Unión Deportiva Las Palmas S.A.D.,ES1,27,27.7,10,37.0,2,32400,+€3.50m
+1005,us-lecce,Unione Sportiva Lecce,IT1,34,25.0,29,85.3,8,31559,+€21.55m
+1038,sampdoria-genua,UC Sampdoria,IT1,33,24.3,5,15.6,4,36348,+€1.75m
+1210,as-livorno,US Livorno 1915,IT1,29,24.1,5,17.2,0,19238,+-0
+1533,sd-eibar,SD Eibar,ES1,26,28.3,5,19.2,0,8164,+€2.60m
+180,fc-southampton,Southampton Football Club,GB1,32,25.9,17,53.1,11,32384,€-80.56m
+2448,sporting-gijon,Sporting Gijón,ES1,28,26.2,10,35.7,2,29029,+€5.23m
+368,fc-sevilla,Sevilla Fútbol Club S.A.D.,ES1,25,25.7,14,56.0,9,43883,+€22.05m
+38,fortuna-dusseldorf,Fortuna Düsseldorf,L1,29,25.9,12,41.4,2,54600,+€600k
+415,fc-toulouse,Toulouse Football Club,FR1,23,25.6,18,78.3,10,33150,+€47.80m
+416,fc-turin,Torino Calcio,IT1,28,26.5,24,85.7,15,28177,+€32.60m
+417,ogc-nizza,Olympique Gymnaste Club Nice Côte d'Azur,FR1,29,25.7,18,62.1,11,36178,+€3.30m
+44,hertha-bsc,Hertha BSC,L1,36,24.1,14,38.9,7,74667,+€6.70m
+631,fc-chelsea,Chelsea Football Club,GB1,33,23.9,20,60.6,15,41631,€-40.50m
+749,fc-empoli,Empoli Football Club S.r.l.,IT1,27,25.6,15,55.6,4,19847,+€11.05m
+10,arminia-bielefeld,Arminia Bielefeld,L1,27,25.3,15,55.6,4,26515,+€5.90m
+1049,fc-valencia,Valencia Club de Fútbol S. A. D.,ES1,28,25.8,10,35.7,6,49430,+€28.65m
+27,fc-bayern-munchen,FC Bayern München,L1,26,27.4,16,61.5,17,75000,€-67.65m
+29,fc-everton,Everton Football Club,GB1,25,27.6,14,56.0,12,39414,+€33.45m
+290,aj-auxerre,Association de la Jeunesse auxerroise,FR1,28,25.2,17,60.7,8,18541,+€1.50m
+347,fc-metz,FC Metz,FR1,26,25.0,19,73.1,7,28786,+€21.90m
+399,leeds-united,Leeds United,GB1,27,24.6,18,66.7,9,37890,+€930k
+4083,fc-crotone,FC Crotone,IT1,25,27.0,6,24.0,1,16640,+€3.90m
+533,tsg-1899-hoffenheim,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,L1,31,26.2,19,61.3,12,30150,€-34.50m
+607,venezia-fc,Venezia Football Club,IT1,29,25.9,21,72.4,11,12048,€-6.65m
+800,atalanta-bergamo,Atalanta Bergamasca Calcio S.p.a.,IT1,25,27.5,13,52.0,19,24950,+€18.45m
+984,west-bromwich-albion,West Bromwich Albion,GB1,25,27.8,8,32.0,4,26850,€-1.35m
